@@ -1,0 +1,15 @@
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\bin\Debug\ThucHanh3.exe.config
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\bin\Debug\ThucHanh3.exe
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\bin\Debug\ThucHanh3.pdb
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.csproj.AssemblyReference.cache
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.Form1.resources
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.Properties.Resources.resources
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.csproj.GenerateResource.cache
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.exe
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.pdb
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.FormCTHopDong_TTTH.resources
+D:\Lap Trinh Huong Su Kien\ThucHanh3\ThucHanh3\obj\Debug\ThucHanh3.FormThamMyVien_TTTH.resources
+D:\Lap Trinh Huong Su Kien\ThucHanh2\ThucHanh3\obj\Debug\ThucHanh3.csproj.AssemblyReference.cache
+D:\Lap Trinh Huong Su Kien\ThucHanh2\ThucHanh3\obj\Debug\ThucHanh3.exe
+D:\Lap Trinh Huong Su Kien\ThucHanh2\ThucHanh3\obj\Debug\ThucHanh3.pdb
